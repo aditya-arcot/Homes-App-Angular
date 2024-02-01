@@ -73,3 +73,11 @@ input {
         height: 400px;
     }
 }
+
+.listing-apply form button {
+    cursor: pointer;
+}
+
+.listing-apply form button:active {
+    background-color: grey;
+}

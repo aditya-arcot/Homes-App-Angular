@@ -39,3 +39,11 @@ button {
         grid-template-columns: 1fr;
     }
 }
+
+section form button {
+    cursor: pointer;
+}
+
+section form button:active {
+    background-color: grey;
+}
